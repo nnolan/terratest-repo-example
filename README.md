@@ -2,9 +2,9 @@
 
 ## Purpose of the module
 
-## Working examples of the module
+## Working examples of the module - This is needed because configuration designer sucks
 
-### This would ideally include all required and optional variable inputs
+#### This would ideally include all required and optional variable inputs
 ``` 
 module "ec2" {
 
