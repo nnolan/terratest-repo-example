@@ -11,4 +11,4 @@ module "ec2" {
 }
 ```
 
-## Include terraform, aws and RX documentation.
+## Include terraform, aws and company documentation.
